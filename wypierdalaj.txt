@@ -1,6 +1,5 @@
 jbzdy.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Zimniak)))))
 jbzdy.pl#?#.resource-object:-abp-has(a.avatar[href^="#"])
-
 @@jbzdy.pl$.resource-object:-abp-has(a.avatar[href^="https://jbzdy.pl/uzytkownik/"])
 jbzdy.pl##article.nomrg.dads
 ##.span$replace=/.badge.rank.rank-4.has-tooltip/.badge.rank.rank-5.has-tooltip/i
