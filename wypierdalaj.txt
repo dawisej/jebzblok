@@ -1,4 +1,5 @@
 jbzdy.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Kikic)))))
+jbzdy.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Tytolecjakptak)))))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Kikic)))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(bestdzida)))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(warszafiak)))
