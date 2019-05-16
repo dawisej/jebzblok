@@ -9,3 +9,5 @@ jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(plususe)))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(sprld)))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(copylink)))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Tytolecjakptak)))
+
+jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(saguaro44)))
