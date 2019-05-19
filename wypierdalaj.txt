@@ -14,3 +14,6 @@ jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(saguaro44)))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(adminiztrator)))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(zeznania997)))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(jerzypoznanski)))
+jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(tejson)))
+
+jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(dzidaparty)))
