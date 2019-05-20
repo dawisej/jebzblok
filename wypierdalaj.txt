@@ -18,3 +18,4 @@ jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(tejson)))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(dzidaparty)))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(lepszyadmin))) #dawisej
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(zobaczse))) #dawisej
+jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Binance_Polska))) #dawisej
