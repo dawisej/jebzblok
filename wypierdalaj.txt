@@ -23,6 +23,7 @@ jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Forule)))
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Furile))) 
 
 
+
 jbzdy.com.pl##.btn-send-messenger
 jbzdy.com.pl##cookies -politics
 jbzdy.com.pl##.fb-like
