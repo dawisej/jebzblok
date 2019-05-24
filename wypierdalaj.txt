@@ -1,12 +1,3 @@
-jbzdy.com.pl##.btn-send-messenger
-jbzdy.com.pl##cookies -politics
-jbzdy.com.pl##.fb-like
-jbzdy.com.pl##.fb-share
-jbzdy.com.pl##.nextoad
-jbzdy.com.pl##.topv
-@@||jbzdy.com.pl^$generichide
-jbzdy.com.pl##.dads
-
 jbzdy.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Kikic)))))
 jbzdy.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Tytolecjakptak)))))
 jbzdy.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Kikic)))
