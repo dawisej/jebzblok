@@ -1,5 +1,6 @@
 jbzdy.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Kikic)))))
 jbzdy.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Tytolecjakptak)))))
+jbzdy.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(MomAdhd)))))
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Kikic)))
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(bestdzida)))
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(warszafiak)))
