@@ -22,7 +22,7 @@ jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(zobaczse)))
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Binance_Polska))) 
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Forule)))
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Furile))) 
-
+jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(firile))) 
 
 
 jbzdy.com.pl##.btn-send-messenger
