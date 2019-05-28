@@ -24,6 +24,7 @@ jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Binance_Pol
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Forule)))
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Furile))) 
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(firile))) 
+jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Mozgojeba)))
 
 
 jbzdy.com.pl##.btn-send-messenger
