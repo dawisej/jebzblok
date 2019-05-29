@@ -2,6 +2,7 @@ jbzdy.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-ha
 jbzdy.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Tytolecjakptak)))))
 jbzdy.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(MomAdhd)))))
 jbzdy.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Mozgojeba)))))
+jbzdy.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(ORLIKES)))))
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Kikic)))
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(bestdzida)))
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(warszafiak)))
@@ -26,6 +27,7 @@ jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Furile)))
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(firile))) 
 jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Mozgojeba)))
 
+jbzdy.com.pl#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(ORLIKES)))
 
 jbzdy.com.pl##.btn-send-messenger
 jbzdy.com.pl##cookies -politics
