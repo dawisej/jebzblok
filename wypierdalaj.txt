@@ -6,7 +6,6 @@ jbzdy.*|m.jbzdy.*#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-a
 jbzdy.*|m.jbzdy.*#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(pollycja)))))
 jbzdy.*|m.jbzdy.*#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Izuuu11)))))
 jbzdy.*|m.jbzdy.*#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(andreasa)))))
-jbzdy.*|m.jbzdy.*#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(marcinzombi)))))
 jbzdy.*|m.jbzdy.*#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Kikic)))
 jbzdy.*|m.jbzdy.*#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(bestdzida)))
 jbzdy.*|m.jbzdy.*#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(warszafiak)))
