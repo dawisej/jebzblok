@@ -35,6 +35,7 @@ jbzdy.*|m.jbzdy.*#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(zorile
 jbzdy.*|m.jbzdy.*#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(farile)))
 jbzdy.*|m.jbzdy.*#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(TwujHuopakChad)))
 jbzdy.*|m.jbzdy.*#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Enduro12)))
+jbzdy.*|m.jbzdy.*#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(PornHubCom)))
 
 jbzdy.*|m.jbzdy.*##.btn-send-messenger
 jbzdy.*|m.jbzdy.*##cookies -politics
