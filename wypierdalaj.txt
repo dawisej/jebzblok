@@ -46,3 +46,14 @@ jbzdy.*|m.jbzdy.*##.nextoad
 jbzdy.*|m.jbzdy.*##.topv
 @@||jbzdy.*|m.jbzdy.*^$generichide
 jbzdy.*|m.jbzdy.*##.dads
+
+
+jbzdy.co#@#.pub_300x250
+jbzdy.co#@#.pub_300x250m
+jbzdy.co#@#.pub_728x90
+jbzdy.co#@#.textAd
+jbzdy.co#@#.text_ad
+jbzdy.co#@#.text-ad
+jbzdy.co#@#.text_ads
+jbzdy.co#@#.text-ads
+jbzdy.co#@#.text-ad-links
