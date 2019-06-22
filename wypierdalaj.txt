@@ -38,6 +38,15 @@ jbzdy.*|m.jbzdy.*#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(TwujHu
 jbzdy.*|m.jbzdy.*#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Enduro12)))
 jbzdy.*|m.jbzdy.*#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(PornHubCom)))
 
+jbzdy.*|m.jbzdy.*##.btn-send-messenger
+jbzdy.*|m.jbzdy.*##cookies -politics
+jbzdy.*|m.jbzdy.*##.fb-like
+jbzdy.*|m.jbzdy.*##.fb-share
+jbzdy.*|m.jbzdy.*##.nextoad
+jbzdy.*|m.jbzdy.*##.topv
+@@||jbzdy.*|m.jbzdy.*^$generichide
+jbzdy.*|m.jbzdy.*##.dads
+
 jbzdy.co#@#.pub_300x250
 jbzdy.co#@#.pub_300x250m
 jbzdy.co#@#.pub_728x90
