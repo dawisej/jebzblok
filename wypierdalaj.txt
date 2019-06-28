@@ -9,6 +9,8 @@ jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.n
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Klul)))))
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(colorectal)))))
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Pawelinio123)))))
+jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Mefistofeles73)))))
+‏jbzdy.co#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Mefistofeles73)))))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Kikic)))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(bestdzida)))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(warszafiak)))
