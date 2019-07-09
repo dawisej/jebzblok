@@ -20,6 +20,7 @@ jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.n
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Mokrykutos)))))
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Czarnesalami)))))
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Ciasnyodbyt96)))))
+jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Lubiessacbenis)))))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Kikic)))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(bestdzida)))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(warszafiak)))
