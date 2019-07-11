@@ -25,6 +25,7 @@ jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.n
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Zwierzaczek69)))))
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Analnydzikus69)))))
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Mokryodbyt)))))
+jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Jwmsegowno)))))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Kikic)))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(bestdzida)))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(warszafiak)))
