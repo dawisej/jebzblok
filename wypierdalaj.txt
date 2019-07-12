@@ -79,7 +79,6 @@ jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(TwujHuopakChad)
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Enduro12)))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(PornHubCom)))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(523456)))
-jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(MozgoZweglacz)))
 
 jbzdy.co##.btn-send-messenger
 jbzdy.co##cookies -politics
