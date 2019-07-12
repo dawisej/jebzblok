@@ -1,4 +1,4 @@
-﻿! Info do Wypierdalaj: Od teraz blokowanych wstawiaj równierz do:
+﻿! Info: Od teraz blokowanych wstawiaj równierz do:
 ! jbzdy.co#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Nick)))))
 
 
