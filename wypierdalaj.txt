@@ -1,4 +1,4 @@
-﻿! Info: Od teraz blokowanych wstawiaj równierz do:
+﻿! Info: Od teraz blokowanych wstawiaj również do:
 ! jbzdy.co#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Nick)))))
 
 
@@ -56,6 +56,7 @@ jbzdy.co#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(milyprawiczek)))))
 jbzdy.co#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(milyprawiczek)))))
 jbzdy.co#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(gettosiuur)))))
+jbzdy.co#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Gettosiuur)))))
 
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(Kikic)))
 jbzdy.co#?#article:-abp-has(.inside:-abp-has(.name:-abp-contains(bestdzida)))
