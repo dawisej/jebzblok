@@ -1,4 +1,5 @@
-﻿!POSTY NA MIKROBLOGU
+TESTUJE COŚ
+!POSTY NA MIKROBLOGU
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(milyprawiczek)))))
 jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Gettosiuur)))))
 
