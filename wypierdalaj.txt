@@ -1,30 +1,30 @@
 ﻿!POSTY NA MIKROBLOGU
-jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(milyprawiczek)))))
-jbzdy.co#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Gettosiuur)))))
+jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(milyprawiczek)))))
+jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Gettosiuur)))))
 
 !KOMENTARZE NA MIKROBLOGU
-jbzdy.co#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Gettosiuur)))))
-jbzdy.co#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(milyprawiczek)))))
+jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Gettosiuur)))))
+jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(milyprawiczek)))))
 
 !KOMENTARZE GŁÓWNA/OCZEKUJĄCE
-jbzdy.co#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pornopornoporno))))
+jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pornopornoporno))))
 
 !BLOKOWANIE KAMILA
-jbzdy.co##.btn-send-messenger
-jbzdy.co##cookies -politics
-jbzdy.co##.fb-like
-jbzdy.co##.fb-share
-jbzdy.co##.nextoad
-jbzdy.co##.topv
-@@||jbzdy.co^$generichide
-jbzdy.co##.dads
+jbzdy.net##.btn-send-messenger
+jbzdy.net##cookies -politics
+jbzdy.net##.fb-like
+jbzdy.net##.fb-share
+jbzdy.net##.nextoad
+jbzdy.net##.topv
+@@||jbzdy.net^$generichide
+jbzdy.net##.dads
 
-jbzdy.co#@#.pub_300x250
-jbzdy.co#@#.pub_300x250m
-jbzdy.co#@#.pub_728x90
-jbzdy.co#@#.textAd
-jbzdy.co#@#.text_ad
-jbzdy.co#@#.text-ad
-jbzdy.co#@#.text_ads
-jbzdy.co#@#.text-ads
-jbzdy.co#@#.text-ad-links
+jbzdy.net#@#.pub_300x250
+jbzdy.net#@#.pub_300x250m
+jbzdy.net#@#.pub_728x90
+jbzdy.net#@#.textAd
+jbzdy.net#@#.text_ad
+jbzdy.net#@#.text-ad
+jbzdy.net#@#.text_ads
+jbzdy.net#@#.text-ads
+jbzdy.net#@#.text-ad-links
