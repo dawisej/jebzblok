@@ -1,10 +1,8 @@
 ﻿!POSTY NA MIKROBLOGU
-jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(milyprawiczek)))))
 jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Gettosiuur)))))
 
 !KOMENTARZE NA MIKROBLOGU
 jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Gettosiuur)))))
-jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(milyprawiczek)))))
 
 !KOMENTARZE GŁÓWNA/OCZEKUJĄCE
 jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pornopornoporno))))
