@@ -2,16 +2,18 @@
 jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Gettosiuur)))))
 jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(poziom-lowiejtkurvya)))))
 jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(LowcaSzpareek)))))
+jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(maya_D)))))
 
 !KOMENTARZE NA MIKROBLOGU
 jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Gettosiuur)))))
 jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(poziom-lowiejtkurvya)))))
 jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(LowcaSzpareek)))))
+jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(maya_D)))))
 
 !KOMENTARZE GŁÓWNA/OCZEKUJĄCE
 jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pornopornoporno))))
 jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(LowcaSzpareek))))
-
+jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(maya_D))))
 
 !BLOKOWANIE KAMILA
 jbzdy.net##.btn-send-messenger
