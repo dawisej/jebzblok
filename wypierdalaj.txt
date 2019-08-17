@@ -38,3 +38,6 @@ jbzdy.net#@#.text-ad
 jbzdy.net#@#.text_ads
 jbzdy.net#@#.text-ads
 jbzdy.net#@#.text-ad-links
+
+!-OPCJONALNIE- SKRYPT USUWAJĄCY POSTY NA PODSTAWIE FRAZY W POŚCIE (MIKROBLOG)
+jbzdy.net#?#div .post:-abp-has(div.wrapper > div.content > div > div.readmore > span > p > span > span:-abp-contains(xyz_tutaj_wpisz_frazę_xyz))
