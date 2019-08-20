@@ -15,7 +15,7 @@ jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-ab
 jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(maya_D)))))
 jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(azavii)))))
 jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(wazelina461)))))
-jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(pawe0o_123)))))
+jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(pawe0o_123)))))
 
 !KOMENTARZE GŁÓWNA/OCZEKUJĄCE
 jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pornopornoporno))))
@@ -23,6 +23,7 @@ jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-con
 jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(maya_D))))
 jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(azavii))))
 jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(wazelina461))))
+jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pawe0o_123))))
 
 !BLOKOWANIE KAMILA
 jbzdy.net##.btn-send-messenger
