@@ -6,6 +6,7 @@ jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.
 jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(azavii)))))
 jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Android0700)))))
 jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(wazelina461)))))
+jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(pawe0o_123)))))
 
 !KOMENTARZE NA MIKROBLOGU
 jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Gettosiuur)))))
@@ -14,6 +15,7 @@ jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-ab
 jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(maya_D)))))
 jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(azavii)))))
 jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(wazelina461)))))
+jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(pawe0o_123)))))
 
 !KOMENTARZE GŁÓWNA/OCZEKUJĄCE
 jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pornopornoporno))))
