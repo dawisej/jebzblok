@@ -1,49 +1,49 @@
 ﻿!POSTY NA MIKROBLOGU
-jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Gettosiuur)))))
-jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(poziom-lowiejtkurvya)))))
-jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(LowcaSzpareek)))))
-jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(maya_D)))))
-jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(azavii)))))
-jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Android0700)))))
-jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(wazelina461)))))
-jbzdy.net#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(pawe0o_123)))))
+jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Gettosiuur)))))
+jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(poziom-lowiejtkurvya)))))
+jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(LowcaSzpareek)))))
+jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(maya_D)))))
+jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(azavii)))))
+jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Android0700)))))
+jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(wazelina461)))))
+jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(pawe0o_123)))))
 
 !KOMENTARZE NA MIKROBLOGU
-jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Gettosiuur)))))
-jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(poziom-lowiejtkurvya)))))
-jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(LowcaSzpareek)))))
-jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(maya_D)))))
-jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(azavii)))))
-jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(wazelina461)))))
-jbzdy.net#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(pawe0o_123)))))
+jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Gettosiuur)))))
+jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(poziom-lowiejtkurvya)))))
+jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(LowcaSzpareek)))))
+jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(maya_D)))))
+jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(azavii)))))
+jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(wazelina461)))))
+jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(pawe0o_123)))))
 
 !KOMENTARZE GŁÓWNA/OCZEKUJĄCE
-jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pornopornoporno))))
-jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(LowcaSzpareek))))
-jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(maya_D))))
-jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(azavii))))
-jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(wazelina461))))
-jbzdy.net#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pawe0o_123))))
+jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pornopornoporno))))
+jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(LowcaSzpareek))))
+jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(maya_D))))
+jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(azavii))))
+jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(wazelina461))))
+jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pawe0o_123))))
 
 !BLOKOWANIE KAMILA
-jbzdy.net##.btn-send-messenger
-jbzdy.net##cookies -politics
-jbzdy.net##.fb-like
-jbzdy.net##.fb-share
-jbzdy.net##.nextoad
-jbzdy.net##.topv
-@@||jbzdy.net^$generichide
-jbzdy.net##.dads
+jbzdy.eu##.btn-send-messenger
+jbzdy.eu##cookies -politics
+jbzdy.eu##.fb-like
+jbzdy.eu##.fb-share
+jbzdy.eu##.nextoad
+jbzdy.eu##.topv
+@@||jbzdy.eu^$generichide
+jbzdy.eu##.dads
 
-jbzdy.net#@#.pub_300x250
-jbzdy.net#@#.pub_300x250m
-jbzdy.net#@#.pub_728x90
-jbzdy.net#@#.textAd
-jbzdy.net#@#.text_ad
-jbzdy.net#@#.text-ad
-jbzdy.net#@#.text_ads
-jbzdy.net#@#.text-ads
-jbzdy.net#@#.text-ad-links
+jbzdy.eu#@#.pub_300x250
+jbzdy.eu#@#.pub_300x250m
+jbzdy.eu#@#.pub_728x90
+jbzdy.eu#@#.textAd
+jbzdy.eu#@#.text_ad
+jbzdy.eu#@#.text-ad
+jbzdy.eu#@#.text_ads
+jbzdy.eu#@#.text-ads
+jbzdy.eu#@#.text-ad-links
 
 !-OPCJONALNIE- SKRYPT USUWAJĄCY POSTY NA PODSTAWIE FRAZY W POŚCIE (MIKROBLOG)
-jbzdy.net#?#div .post:-abp-has(div.wrapper > div.content > div > div.readmore > span > p > span > span:-abp-contains(xyz_tutaj_wpisz_frazę_xyz))
+jbzdy.eu#?#div .post:-abp-has(div.wrapper > div.content > div > div.readmore > span > p > span > span:-abp-contains(xyz_tutaj_wpisz_frazę_xyz))
