@@ -24,6 +24,7 @@ jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-cont
 jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(azavii))))
 jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(wazelina461))))
 jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pawe0o_123))))
+jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(e654ahj434))))
 
 !BLOKOWANIE KAMILA
 jbzdy.eu##.btn-send-messenger
