@@ -8,7 +8,6 @@ jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.n
 jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(wazelina461)))))
 jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(pawe0o_123)))))
 jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(terlecki)))))
-jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Chleb1234)))))
 
 !KOMENTARZE NA MIKROBLOGU
 jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Gettosiuur)))))
@@ -19,7 +18,6 @@ jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp
 jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(wazelina461)))))
 jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(pawe0o_123)))))
 jbzdy.eu#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(terlecki)))))
-jbzdy.eu#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Chleb1234)))))
 
 !KOMENTARZE GŁÓWNA/OCZEKUJĄCE
 jbzdy.eu#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(pornopornoporno))))
